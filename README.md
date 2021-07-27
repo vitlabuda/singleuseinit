@@ -169,7 +169,7 @@ Granted, the MRO isn't followed, but the point is, that after a "static" call to
 
 
 
-# Licensing 
+## Licensing 
 This project is licensed under the **3-clause BSD license**. See the [LICENSE](LICENSE) file for details.
 
 Written by **[Vít Labuda](https://vitlabuda.cz/)**.
